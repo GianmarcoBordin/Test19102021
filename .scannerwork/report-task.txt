@@ -1,0 +1,7 @@
+organization=gianmarcobordin
+projectKey=GianmarcoBordin_Test19102021
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.26521
+dashboardUrl=https://sonarcloud.io/dashboard?id=GianmarcoBordin_Test19102021
+ceTaskId=AX6_QE_2hI-HlXYDA5Kp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX6_QE_2hI-HlXYDA5Kp
